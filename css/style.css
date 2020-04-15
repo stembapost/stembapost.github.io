@@ -125,6 +125,31 @@ span {
   }
 }
 
+.fahima{
+  margin-left: 300px;
+}
+
+@media only screen and (max-width:1024px) {
+  .fahima{
+  margin-left: 0px;
+  }
+}
+@media only screen and (max-width:768px) {
+  .fahima{
+  margin-left: 0px;
+  }
+}
+@media only screen and (max-width:600px) {
+  .fahima{
+  margin-left: 0px;
+  }
+}
+@media only screen and (max-width:400px) {
+  .fahima{
+  margin-left: 0px;
+  }
+}
+
 .back-to-top:focus {
   background: #71c55d;
   color: #fff;
